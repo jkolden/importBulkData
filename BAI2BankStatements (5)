@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <ns1:importBulkData xmlns:ns1="http://xmlns.oracle.com/apps/financials/commonModules/shared/model/erpIntegrationService/types/">
+         <ns1:document xmlns:ns2="http://xmlns.oracle.com/apps/financials/commonModules/shared/model/erpIntegrationService/">
+            <ns2:Content>UEsDBBQAAAAIAJWNTEt7gY9HtQAAAEgCAAATAAAATXVsdGktQ3VycmVuY3kxLnR4 dK2QQYrDMAxF9zmFobP8EH3ZiqRlksUsBsLQ3v8uddqGyX4iMNhP4iF/IaiqjWp2 vjmFhKgQVTQcgI6DKEzydXjMaBPB9/IL6f0Kl4zJM9+IAoqZ9AIeXdKRwZI8oaPG gVMfFzSr+uoLlvvGeVmL1mZT7Gqs9600U+3LRZlbxfqzzbeyrCxf6pElLIwl/NBx X/E6m00X2ZrvkX+iuOqrn7D/qWsJryYeXVXHIePvSVgHeQY+Dk9QSwMEFAAAAAgA lY1MS7O6HkkIAQAA5wEAABUAAABCTlAtSW50ZXJuRXVybzk5OS50eHSVkE1rwzAM hu/5FYJeNSLJX0lOdZwUxlhWnAzGLmXtAuuhzaC97N/P7QjrcRMIrEd+pRcRI4uI ZjHm9uWYmJGEGFOKRUTJMxI0VF6T5z+iibB9jkipr5ANJU6kZsqEokpyiSH2aU5C BsXqWzRHnrFF7QxqQ5dAwjp27OsAorSxRVlYhyF2oI1IsleA1wr9GtZvX4fxeL7o 03r8kf9VP7wMVTN+Tqf9+e6qhPDQ+QXUgaFw8Fp7GKLv+lUbAWAVnx6rWa8VhAiS 5vSxiuP7Jk7b/XEZx9NuOgC0XQMhdcIQYfuxy8N9sxC/MQaW1jqe7cq/7GY63Z8t X6yiyrOy+C0ZTQLlLXB59g1QSwMEFAAAAAgAlY1MSzNtiosJAQAA6gEAAB8AAABT YW5NYXRlb0hlYWx0aGNhcmVVU0FjY291bnQudHh0lVFNa8JAEL3nVwx4HcnO7Gc8 udkolNJUNhFKL1JtoB7Ugl767ztaQr36YGD3vXnvLawiJGY2xNbenzwpIlSsCGXY ISKXhWK0qroNjTtslMJ116ASXUuGNlNiY6eh8uZPIIWkglUCxE6ihJIOre+pEWVB TtaV9N6ACuvcUqwTSLR1oQrOY8otGMssLwwQjcary3iLxj7iiitYffwchuNlbLUP tfZv/awZvk/n/WV6c0J6buME6kQQPLzXEfoc2265yACwzK8vs9FvNKQMLDldnuXh c5NP2/1xnofz7nQAWLQNJFFSn2H7tSvTUzPhuLEW5s55Kox8ATm6lqIuiyr8Xwmt ENU94cviF1BLAwQUAAAACACWjUxLy5/iiAkBAADrAQAADQAAAEJvZkEtMjg2OS50 eHSVUcFqwzAMvecrBL2qRFIsO+mpjtPCGMuGk8HYpaxdYD20HbSX/f28lLBeKxDY 7/k9PyRiZBExLKq3J8fEjCTEmFosIkqekaBSNTZPb8QQ4WvXICW+QCZxPGdnheeW qyvDhFzRWIhd8kqQorDeQlPlGdtkQ+njK01Yx5Z9HUAKo7asSuswxBaMiqSIJXhT 4KTSu1T9W79ohu/TeX+Zj0oIj62fQR0YSgfvtYc++rZbryIArOPz02LSmwJCBEk+ XVzE4XMTT9v9cRmH8+50AFi1DYTEhD7C9muXh4dmJn6jCktrHf/FNU7R6D1x/Qu8 fPwchuMlM2kHbMcRYpFnVfl/ZdQEVLeAy7NfUEsDBBQAAAAIAJaNTEteWXH+TAAA AF4AAAAZAAAAQmFua1N0YXRlbWVudHMucHJvcGVydGllc02MQQqAMAwE775FyCPU o+AXlhJroE1Kk4PP13ryNsPAWEcqTGjNid3pFIUmQXFK8GuHInNljU8PcwkxJdHg 3DF4Xn5hRWC7450Omx5QSwECFAAUAAAACACVjUxLe4GPR7UAAABIAgAAEwAAAAAA AAAAACAAtoEAAAAATXVsdGktQ3VycmVuY3kxLnR4dFBLAQIUABQAAAAIAJWNTEuz uh5JCAEAAOcBAAAVAAAAAAAAAAAAIAC2geYAAABCTlAtSW50ZXJuRXVybzk5OS50 eHRQSwECFAAUAAAACACVjUxLM22KiwkBAADqAQAAHwAAAAAAAAAAACAAtoEhAgAA U2FuTWF0ZW9IZWFsdGhjYXJlVVNBY2NvdW50LnR4dFBLAQIUABQAAAAIAJaNTEvL n+KICQEAAOsBAAANAAAAAAAAAAAAIAC2gWcDAABCb2ZBLTI4NjkudHh0UEsBAhQA FAAAAAgAlo1MS15Zcf5MAAAAXgAAABkAAAAAAAAAAAAgALaBmwQAAEJhbmtTdGF0 ZW1lbnRzLnByb3BlcnRpZXNQSwUGAAAAAAUABQBTAQAAHgUAACAASW1wbGVtZW50 YXRpb24gYnkgQW50b24gU2NoZWZmZXI=</ns2:Content>
+            <ns2:FileName>BankStatements.zip</ns2:FileName>
+            <ns2:ContentType>zip</ns2:ContentType>
+            <ns2:DocumentTitle>BankStatements</ns2:DocumentTitle>
+            <ns2:DocumentAuthor>casey.brown</ns2:DocumentAuthor>
+            <ns2:DocumentSecurityGroup>FAFusionImportExport</ns2:DocumentSecurityGroup>
+            <ns2:DocumentAccount>fin$/cashManagement$/import$</ns2:DocumentAccount>
+            <ns2:DocumentName>UCMF4959</ns2:DocumentName>
+         </ns1:document>
+         <ns1:notificationCode>#NULL</ns1:notificationCode>
+         <ns1:callbackURL>#NULL</ns1:callbackURL>
+         <ns1:jobOptions>ValidationOption = N, ImportOption = Y, PurgeOption = Y, ExtractFileType = ALL, InterfaceDetails = 5</ns1:jobOptions>
+      </ns1:importBulkData>
+   </soap:Body>
+</soap:Envelope>
