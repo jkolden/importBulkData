@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <ns1:importBulkData xmlns:ns1="http://xmlns.oracle.com/apps/financials/commonModules/shared/model/erpIntegrationService/types/">
+         <ns1:document xmlns:ns2="http://xmlns.oracle.com/apps/financials/commonModules/shared/model/erpIntegrationService/">
+            <ns2:Content>UEsDBBQAAAgIABiVTEt8KxBpbgAAAIgAAAAXAAAAYmlsbGluZ0xpbmVzLnByb3Bl
+cnRpZXNljDEOwjAMAHfe4spJKUSd6dIBsfABk7qVpeBUdUDw+1aIrbfe6TAvFBMj
+zbMhm+EoShqFkuHCb9YXX0lp4idrwZi1bH25PZJMVCQrQj9sRsbvZefgP7h/1ODo
+fjTnNpza4KGD2vlQeVf5GrrDClBLAwQUAAAICAAYlUxL8diCkAYCAACYDgAAEAAA
+AGJpbGxpbmdMaW5lcy5kYXS1lzFvwjAQhff+CpQdyefYxhk7tF1g6g+oKEpph2aB
+Bak/vjFJ/EzuZISlIELMQ5hP711yR6Xs+rX9XGtFm+qvun3nVBNOu6/jx7jsT6Y/
+UTh0eFHh0S+0p/BB+nwWtP65bY/7w2X1fjmd299V2Gn78kbpXuH3dvuf7tx2++7Q
+Vk/VHUgPSD8oNoW0PjJagXGu5RinrR5GbIDYDIqbEPtjY2GjExDnWg4x7jUwHr5/
+uvZ0D5DiN8blmHfYsL61cCPwzbUFLCRFICTkHi00sNALiHMta6EpslADUCN1wcJG
+4Jtri1hYg7BG7NFCFy3UiiMyLWuhK7LQANAgdW6hJoFvri1ioQWhRewT5XAPGxm1
+wDjXcozY7DETHRAdcp8QbUJYC4RzLetiGeAGgEnu8X7tEbPQU5iWA/SlMXsgegQf
+EY2LiEJLYVoOcdrqYcQGiA2CF1qKFloK03KIZS2F0FKuyzHteKkkhaiEnJmWvVTK
+KpHQU67LMW3BQyXEzLQFPERPuS7HrKX5SwkpMy3rYeH8RYS2QjWiF+YvJQwPTMsx
+lt62CY2FDKKPh0l8FKYHpmV9NGW1iM5CFuEL840S5gemZWuxaL4h9BVyCF78LyCM
+D0xbphbRW9Lopf8CwgjBtEVqEb2FPKKPtegSH4URgmlZH11ZLaK3UIPwhUGRhBGC
+adlalAfFf1BLAQIUABQAAAgIABiVTEt8KxBpbgAAAIgAAAAXAAAAAAAAAAAAIAC2
+gQAAAABiaWxsaW5nTGluZXMucHJvcGVydGllc1BLAQIUABQAAAgIABiVTEvx2IKQ
+BgIAAJgOAAAQAAAAAAAAAAAAIAC2gaMAAABiaWxsaW5nTGluZXMuZGF0UEsFBgAA
+AAACAAIAgwAAANcCAAAgAEltcGxlbWVudGF0aW9uIGJ5IEFudG9uIFNjaGVmZmVy</ns2:Content>
+            <ns2:FileName>BillingLines.zip</ns2:FileName>
+            <ns2:ContentType>zip</ns2:ContentType>
+            <ns2:DocumentTitle>BillingLines</ns2:DocumentTitle>
+            <ns2:DocumentAuthor>scott.desmond</ns2:DocumentAuthor>
+            <ns2:DocumentSecurityGroup>FAFusionImportExport</ns2:DocumentSecurityGroup>
+            <ns2:DocumentAccount>fin/revenueManagement/import</ns2:DocumentAccount>
+            <ns2:DocumentName>UCMFA4970</ns2:DocumentName>
+         </ns1:document>
+         <ns1:notificationCode>#NULL</ns1:notificationCode>
+         <ns1:callbackURL>#NULL</ns1:callbackURL>
+         <ns1:jobOptions>ValidationOption = N, ImportOption = Y, PurgeOption = N, ExtractFileType = ALL, InterfaceDetails = 55</ns1:jobOptions>
+      </ns1:importBulkData>
+   </soap:Body>
+</soap:Envelope>
